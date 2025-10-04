@@ -5,4 +5,4 @@ Claude Desktop uses plugins that can be controlled via user permission, while Pe
 syncing feature... works automatically
 
 
-right....
+right.... now
