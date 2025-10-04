@@ -18,6 +18,27 @@ OpenAI launched Sora 2, their most advanced AI video generation model, featuring
 
 ---
 
+## Deepfake Technology Disclaimer
+
+Deepfake technology represents a dual-use capability that can serve both beneficial and harmful purposes:
+
+**Legitimate Uses:**
+- Parody and satire protected under free speech
+- Educational demonstrations
+- Entertainment and creative expression
+- Historical reenactments and accessibility features
+
+**Risks and Ethical Concerns:**
+- **Misinformation**: Deepfakes can be weaponized to distort reality and spread false information
+- **Identity theft and fraud**: Unauthorized use of someone's likeness
+- **Political manipulation**: Fabricating statements or actions to influence public opinion
+- **Erosion of trust**: Undermining confidence in authentic media
+
+**Responsible Use Guidelines:**
+Always clearly label deepfake content, obtain consent when using someone's likeness, consider the potential for harm, and never use this technology to deceive, defame, or manipulate others.
+
+---
+
 ## ⚠️ AI Disclaimer
 
 **Please note:** AI assistants can make mistakes, including:
