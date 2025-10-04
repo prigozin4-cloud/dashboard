@@ -11,6 +11,13 @@ wow it just happend
 
 ---
 
+## 🚀 AI Innovation Highlights
+
+### Sora 2 (October 2025)
+OpenAI launched Sora 2, their most advanced AI video generation model, featuring significant improvements over the initial version. Key innovations include physically accurate motion, realistic video generation with synchronized dialogue and sound effects, and enhanced controllability. The model is accompanied by a new iOS social app that allows users to generate short-form AI videos, remix content created by others, and share creations on a collaborative feed. The app quickly topped Apple's App Store charts following its invite-only launch.
+
+---
+
 ## ⚠️ AI Disclaimer
 
 **Please note:** AI assistants can make mistakes, including:
