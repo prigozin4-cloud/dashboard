@@ -1,4 +1,3 @@
+# AI Assistant Comparison
 
-Claude desktop uses plugins that can be controlled via user Permission,
-while Preplexity does it uniformed. Chatgpt uses vm like browser that is privacy focused.
-Gemini CLI has a terminal input and is more free for value, though I hadnt been able to work it out.
+Claude Desktop uses plugins that can be controlled via user permission, while Perplexity handles this uniformly. ChatGPT uses a VM-like browser that is privacy-focused. Gemini CLI has terminal input and offers better value, though I haven't been able to figure it out yet.
