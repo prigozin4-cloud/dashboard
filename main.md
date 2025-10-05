@@ -18,6 +18,94 @@ OpenAI launched Sora 2, their most advanced AI video generation model, featuring
 
 ---
 
+## AI in Research: Common Uses for Productivity, Learning, and Problem-Solving
+
+### Productivity Enhancement
+
+**Code Development & Software Engineering**
+- AI-assisted coding tools (like Cursor, GitHub Copilot, Claude Code) help developers write, debug, and optimize code more efficiently
+- Studies show AI can speed up experienced developers by approximately 20% on average
+- Automated code review and refactoring suggestions
+- Real-time error detection and correction
+
+**Research Acceleration**
+- Literature review automation and paper summarization
+- Data analysis and pattern recognition at scale
+- Automated experiment design and hypothesis generation
+- Scientific writing assistance and manuscript preparation
+
+**Administrative Task Automation**
+- Meeting transcription and summarization
+- Email drafting and response generation
+- Document organization and knowledge management
+- Scheduling and workflow optimization
+
+### Learning Complex Concepts
+
+**Personalized Education**
+- Adaptive learning systems that adjust to individual pace and understanding
+- Interactive explanations with multiple approaches to complex topics
+- Step-by-step problem breakdowns with visual aids
+- Real-time feedback on practice problems and exercises
+
+**Subject Matter Exploration**
+- Multi-modal learning (text, images, code, diagrams)
+- Analogies and metaphors for difficult concepts
+- Historical context and practical applications
+- Cross-disciplinary connections and insights
+
+**Skill Development**
+- Language learning with conversation practice
+- Programming tutorials with hands-on examples
+- Mathematical reasoning and proof assistance
+- Scientific methodology and experimental design
+
+### Complex Problem-Solving
+
+**Research & Development**
+- Mathematical problem-solving (AI systems achieving medalist-level performance in competitions)
+- Drug discovery and molecular design
+- Climate modeling and carbon emission reduction strategies
+- Materials science and engineering optimization
+
+**Data-Driven Decision Making**
+- Large-scale data pattern recognition
+- Predictive modeling and forecasting
+- Anomaly detection in complex systems
+- Multi-variable optimization problems
+
+**Creative Problem-Solving**
+- Brainstorming and ideation support
+- Scenario analysis and simulation
+- Alternative perspective generation
+- Design iteration and prototyping
+
+**Domain-Specific Applications**
+- Medical diagnosis support and treatment planning
+- Financial modeling and risk assessment
+- Legal research and case analysis
+- Engineering design and testing
+
+### Key Considerations
+
+**Effectiveness**
+- AI tools are most effective when combined with human expertise
+- Critical thinking and verification remain essential
+- Domain knowledge helps in properly framing problems and evaluating AI outputs
+
+**Limitations**
+- AI knowledge has cutoff dates and may lack recent information
+- Complex reasoning can sometimes produce errors requiring verification
+- Ethical considerations in sensitive domains (healthcare, legal, etc.)
+
+**Best Practices**
+- Use AI as a collaborative tool, not a replacement for human judgment
+- Verify critical information from authoritative sources
+- Iterate and refine AI-generated outputs
+- Maintain awareness of potential biases and limitations
+
+---
+
 ## Deepfake Technology Disclaimer
 
 Deepfake technology represents a dual-use capability that can serve both beneficial and harmful purposes:
